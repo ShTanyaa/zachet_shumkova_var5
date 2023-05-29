@@ -1,0 +1,10 @@
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\bin\Debug\zachet_shumkova_var5.exe.config
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\bin\Debug\zachet_shumkova_var5.exe
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\bin\Debug\zachet_shumkova_var5.pdb
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.Form1.resources
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.Properties.Resources.resources
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.exe
+C:\Users\305-3\Desktop\Shumkova_Pr21\zachet_shumkova_var5\obj\Debug\zachet_shumkova_var5.pdb
